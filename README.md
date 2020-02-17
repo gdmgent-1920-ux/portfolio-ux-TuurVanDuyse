@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Tuur Van Duyse
 
-## Group:
+## Group: 1 AVDa
 
 ## Getting Started
 
